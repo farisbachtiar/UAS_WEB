@@ -5,7 +5,7 @@
             <div class="grid lg:grid-cols-2 gap-12 items-center">
                 <div class="order-2 lg:order-1">
                     <div class="relative">
-                        <img src="https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                        <img src="https://th.bing.com/th/id/OIP.NVZzyq6Wn4iwVXMJdx885QAAAA?w=148&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" 
                              alt="Telor Asin Hikmah" 
                              class="rounded-2xl shadow-2xl w-full h-96 object-cover">
                         <div class="absolute -bottom-6 -right-6 bg-amber-500 text-white p-4 rounded-full shadow-lg">
@@ -163,8 +163,14 @@
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-900">Alamat Toko</h4>
-                                <p class="text-gray-600">Jl. Hikmah Raya No. 45<br>Desa Berkah, Kec. Adiwerna<br>Kabupaten Tegal, Jawa Tengah</p>
+                                <p class="text-gray-600">Jl.sunan gunug jati 03<br>limbangan wetan<br>Kabupaten Brebes, Jawa Tengah</p>
                             </div>
+                            <div class="w-full">
+                            <iframe 
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31689.304428131236!2d109.01944037431645!3d-6.871057300000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6fb09d558b20c1%3A0x3281e6f4be3fbc79!2sTELOR%20ASIN%20HIKMAH!5e0!3m2!1sid!2sid!4v1752619032543!5m2!1sid!2sid"
+                            width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                            </iframe>
+                        </div>
                         </div>
                         
                         <div class="flex items-start">
@@ -175,7 +181,7 @@
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-900">Telepon</h4>
-                                <p class="text-gray-600">+62 815-1234-5678</p>
+                                <p class="text-gray-600">+62 851-4131-9940</p>
                             </div>
                         </div>
 
