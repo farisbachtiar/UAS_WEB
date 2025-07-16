@@ -6,7 +6,7 @@ use App\Filament\Resources\CategoryResource;
 use Filament\Actions;
 use Filament\Resources\Pages\CreateRecord;
 
-// use App\Services\HubUmkmService;
+use App\Services\HubUmkmService;
 
 class CreateCategory extends CreateRecord
 {
@@ -15,7 +15,7 @@ class CreateCategory extends CreateRecord
     protected function afterCreate(): void
     {
 
-        // $hubService = new HubUmkmService();
-        // $hubService->syncCategory($this->record);
+        $hubService = new HubUmkmService();
+        $hubService->syncCategory($this->record);
     }
 }
