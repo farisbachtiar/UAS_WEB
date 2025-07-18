@@ -2,7 +2,7 @@
   <div class="flex justify-between items-center">
     <div>
       <h3 class="text-lg font-bold">Telor Asin Hikmah</h3>
-      <p class="text-sm text-gray-400">© 2025 Semprongku. All rights reserved.</p>
+      <p class="text-sm text-gray-400">telor asin hikmah. All rights reserved.</p>
     </div>
     
     <div>
